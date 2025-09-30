@@ -4,7 +4,7 @@ Este repositório contém a documentação do projeto de testes de software de u
 
 Experiência de e‑commerce de livros com foco em qualidade, testes e fluxo ágil (Início → Em andamento → Em análise → Concluído).
 Links rápidos
-🧠 Mind‑map: Mind-map.pdf 
+🧠 Mind‑map: Mind-map.pdf
 📝 User Stories: User Stories.pdf 
 ✅ Casos de Teste (step-by-step): técnica step-by-step-300925-141501.pdf 
 🧪 BDD (Reset de senha): BDD-300925-142626.pdf 
